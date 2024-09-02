@@ -12,9 +12,6 @@ I'm a software developer specializing in C/C++. I enjoy designing software and c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Varun-Poojary&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Poojary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Varun-Poojary&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Varun-Poojary&icon=0&color=12)](https://visitcount.itsvg.in)
 
